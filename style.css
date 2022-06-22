@@ -218,3 +218,14 @@
     border-width: 1px;
 
 }
+/*End of Bot section*/
+.end{
+    display: flex;
+    background-color: #1F2937;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    height: 70px;
+
+}
