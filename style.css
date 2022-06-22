@@ -132,3 +132,33 @@
     border-radius: 9px;
     box-sizing: border-box;
 }
+/*End of Mid section*/
+
+.next{
+    display: flex;
+    background-color:#E5E7EB;
+    height: 270px;
+    width: auto;
+    align-self: center;
+}
+.next1{
+    font-style: italic;
+    
+    width: 1300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.nextm{
+    display: flex;
+    width: 400px;
+    height: auto;
+
+
+}
+.nexts{
+    margin-left: 180px;
+}
+/*End of next section*/
